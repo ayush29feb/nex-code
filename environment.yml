@@ -15,7 +15,7 @@ dependencies:
   - imageio==2.9.0
   - pytorch==1.8.0
   - torchvision==0.9.0
-  - cudatoolkit=11.1
+  - cudatoolkit=11.1.0
   - pip:  
     - opencv-python==4.1.2.30
     - lpips==0.1.3
