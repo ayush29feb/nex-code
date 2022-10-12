@@ -15,5 +15,5 @@ dependencies:
     - tqdm==4.59.0 #required by LPIPS
     - tensorboard==2.4.1
     # conda give error about cuda. So, we install torch via pip instead. 
-    - torch==1.8.0+cu111
-    - torchvision==0.9.0
+    # - torch==1.8.0+cu111
+    # - torchvision==0.9.0
